@@ -1,0 +1,411 @@
+html {
+  font-size: 62.5%;
+}
+.button{
+  cursor:pointer
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+ul, li {
+  list-style: none;
+}
+input {
+  border: none;
+}
+body {
+  width: 158.4rem;
+}
+.menu-1-3Bc {
+  width: 100%;
+  height: 110.1rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #f5ebcf;
+}
+.menu-1-3Bc .bg-dfc {
+  width: 170.4762rem;
+  height: 100%;
+  position: relative;
+}
+.menu-1-3Bc .bg-dfc .japanese--ej8 {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0.0002rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-1-3Bc .bg-dfc .ellipse-17-kXG {
+  width: 170.4762rem;
+  height: 34.358rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.menu-1-3Bc .bg-dfc .logo-gA2 {
+  width: 10.4rem;
+  height: 10.3rem;
+  position: absolute;
+  left: 3.0002rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.3875;
+  color: #f5ebcf;
+  font-family: Pattaya, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-15.png');
+}
+.menu-1-3Bc .bg-dfc .title-pfY {
+  width: 31.3rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 55.2rem;
+  top: 11.1rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-19.png');
+}
+.menu-1-3Bc .bg-dfc .logout-button-hDY {
+  width: 21.9rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 119.3rem;
+  top: 3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #5b3018;
+  border-radius: 3rem;
+}
+.menu-1-3Bc .bg-dfc .home-kxW {
+  width: 10.1rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 104.1rem;
+  top: 3.7rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-1-3Bc .bg-dfc .back-button-s1Y {
+  width: 20.6rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 88.4rem;
+  border-radius: 2rem;
+}
+.menu-1-3Bc .bg-dfc .back-button-s1Y .rectangle-49-nPQ {
+  width: 17.8rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0;
+  background-color: #5b3018;
+  border-radius: 2rem;
+}
+.menu-1-3Bc .bg-dfc .back-button-s1Y .back-to-cuisines-hmG {
+  width: 20.1rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0.25rem;
+  top: 0;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-1-3Bc .bg-dfc .cart-button-BwL {
+  width: 20.6rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 121.6rem;
+  top: 89.2rem;
+  border-radius: 2rem;
+}
+.menu-1-3Bc .bg-dfc .cart-button-BwL .rectangle-48-ve2 {
+  width: 17.8rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0;
+  background-color: #000000;
+  border-radius: 2rem;
+}
+.menu-1-3Bc .bg-dfc .cart-button-BwL .view-cart-2h4 {
+  width: 6.4rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 0;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Pecita, 'Source Sans Pro';
+}
+.menu-1-3Bc .bg-dfc .fodd-card-3-vGe {
+  width: 41.1rem;
+  height: 40.7rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 29rem;
+  background-color: #5b3018;
+}
+.menu-1-3Bc .bg-dfc .food-card-2-TGa {
+  width: 41.1rem;
+  height: 40.7rem;
+  position: absolute;
+  left: 52.1rem;
+  top: 48.5rem;
+  background-color: #5b3018;
+}
+.menu-1-3Bc .bg-dfc .food-card-1-b7t {
+  width: 41.1rem;
+  height: 40.7rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 28.2rem;
+  background-color: #5b3018;
+}
+.menu-1-3Bc .bg-dfc .idli-L5U {
+  width: 29.8rem;
+  height: 23.7rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 31.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-1-3Bc .bg-dfc .dosa-534 {
+  width: 38.6rem;
+  height: 26.9rem;
+  position: absolute;
+  left: 99.2rem;
+  top: 31.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-1-3Bc .bg-dfc .poori--1hQ {
+  width: 36.3rem;
+  height: 23rem;
+  position: absolute;
+  left: 54.5rem;
+  top: 52.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-1-3Bc .bg-dfc .title-card-3-kez {
+  width: 36rem;
+  height: 10.7rem;
+  position: absolute;
+  left: 100.6rem;
+  top: 56.9rem;
+  background-color: #f5ebcf;
+}
+.menu-1-3Bc .bg-dfc .title-card-3-kez .rectangle-43-Uqt {
+  width: 35.1rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #000000;
+}
+.menu-1-3Bc .bg-dfc .title-card-3-kez .flat-bread-made-of-rice-flour-dTt {
+  width: 18.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-1-3Bc .bg-dfc .title-card-3-kez .item-99-vht {
+  width: 3.3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 17.05rem;
+  top: 6.4rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3875;
+  color: #ffffff;
+  font-family: Pattaya, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-1-3Bc .bg-dfc .title-card-2-Qd4 {
+  width: 36rem;
+  height: 10.7rem;
+  position: absolute;
+  left: 54.5rem;
+  top: 76.6rem;
+  background-color: #f5ebcf;
+}
+.menu-1-3Bc .bg-dfc .title-card-2-Qd4 .rectangle-41-jfL {
+  width: 35.1rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #000000;
+}
+.menu-1-3Bc .bg-dfc .title-card-2-Qd4 .poori-4hc {
+  width: 7.2rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 13.65rem;
+  top: 0;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-1-3Bc .bg-dfc .title-card-2-Qd4 .fluffy-wheat-bread-deep-fried-ZPU {
+  width: 19.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 8rem;
+  top: 4.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-1-3Bc .bg-dfc .title-card-2-Qd4 .item-59-EkW {
+  width: 3.3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.3rem;
+  top: 6.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3875;
+  color: #ffffff;
+  font-family: Pattaya, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-1-3Bc .bg-dfc .title-card-1-jxA {
+  width: 36rem;
+  height: 10.7rem;
+  position: absolute;
+  left: 8.7rem;
+  top: 56rem;
+  background-color: #f5ebcf;
+}
+.menu-1-3Bc .bg-dfc .title-card-1-jxA .rectangle-39-Gx6 {
+  width: 35.1rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #000000;
+}
+.menu-1-3Bc .bg-dfc .title-card-1-jxA .idli-Rpz {
+  width: 4.3rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 15.8rem;
+  top: 0.9rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-1-3Bc .bg-dfc .title-card-1-jxA .indian-rice-cake-for-light-breakfast-x4E {
+  width: 22.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-1-3Bc .bg-dfc .title-card-1-jxA .item-39-F3L {
+  width: 3.3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 15.65rem;
+  top: 6.7rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3875;
+  color: #ffffff;
+  font-family: Pattaya, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-1-3Bc .bg-dfc .dosa-jUJ {
+  width: 6.7rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 56.8rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+}
+

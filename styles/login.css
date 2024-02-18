@@ -1,0 +1,193 @@
+
+html {
+	font-size:50%;
+
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+
+}.login-UrS {
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #f5ebcf;
+}
+.login-UrS .bg-2sx {
+  width: 189.5106rem;
+  height: 112.7498rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/zebra-bg.png');
+}
+.login-UrS .bg-2sx .auto-group-nwlz-xFp {
+  margin-left: 19.0344rem;
+  box-sizing: border-box;
+  padding: 10.5rem 32.176rem 3.258rem 3rem;
+  width: 170.4762rem;
+  height: 34.358rem;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1.png');
+  flex-shrink: 0;
+}
+.login-UrS .bg-2sx .auto-group-nwlz-xFp .logo-3HG {
+  margin: 0rem 47.75rem 10.3rem 0rem;
+  width: 10.4rem;
+  height: 10.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.3875;
+  color: #f5ebcf;
+  font-family: Pattaya, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-15-C1k.png');
+  flex-shrink: 0;
+}
+.login-UrS .bg-2sx .auto-group-nwlz-xFp .login-HBc {
+  margin: 12.5rem 50.05rem 0rem 0rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-UrS .bg-2sx .auto-group-nwlz-xFp .home-awQ {
+  margin-bottom: 8.9rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-UrS .bg-2sx .auto-group-hbry-hWE {
+  margin: 0rem 66.576rem 5.8rem 39.434rem;
+  width: calc(100% - 106.0106rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login-UrS .bg-2sx .auto-group-hbry-hWE .username-cdC {
+  margin-right: 5.5rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #5b3018;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-UrS .bg-2sx .auto-group-hbry-hWE .input-2-kDc {
+  width: 54.4rem;
+  height: 8.3rem;
+  border: solid 0.2rem #5b3018;
+  box-sizing: border-box;
+  background-color: #f5db98;
+  flex-shrink: 0;
+}
+.login-UrS .bg-2sx .auto-group-r8aa-5Wn {
+  margin: 0rem 66.576rem 12.8rem 39.934rem;
+  width: calc(100% - 106.5106rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login-UrS .bg-2sx .auto-group-r8aa-5Wn .password-DN6 {
+  margin-right: 4.8rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #5b3018;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-UrS .bg-2sx .auto-group-r8aa-5Wn .input-1-8zr {
+  width: 54.4rem;
+  height: 8.3rem;
+  border: solid 0.2rem #5b3018;
+  box-sizing: border-box;
+  background-color: #f5db98;
+  flex-shrink: 0;
+}
+.login-UrS .bg-2sx .auto-group-htyy-fzn {
+  margin: 0rem 19.066rem 0rem 0rem;
+  width: 170.4449rem;
+  height: 38.2498rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.login-UrS .bg-2sx .auto-group-htyy-fzn .ellipse-2-CUv {
+  width: 170.4449rem;
+  height: 34.202rem;
+  position: absolute;
+  left: 0;
+  top: 4.0479rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-UrS .bg-2sx .auto-group-htyy-fzn .login-button-wSW {
+  width: 25.5rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 59.2rem;
+  top: 0;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  border-radius: 3rem;
+}
+.login-UrS .bg-2sx .auto-group-htyy-fzn .no-account-register-oDp {
+  width: 34.8rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 54.6rem;
+  top: 6.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Pecita, 'Source Sans Pro';
+  white-space: nowrap;
+}
